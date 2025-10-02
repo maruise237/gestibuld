@@ -14,12 +14,12 @@ A modern React-based project utilizing the latest frontend technologies and tool
 - **Animation** - Framer Motion for smooth UI animations
 - **Testing** - Jest and React Testing Library setup
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js (v14.x or higher)
 - npm or yarn
 
-## 🛠️ Installation
+##  Installation
 
 1. Install dependencies:
    ```bash
@@ -35,7 +35,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
    yarn start
    ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 react_app/
@@ -100,8 +100,8 @@ npm run build
 
 ##  Acknowledgments
 
-- Built with kamtech
+- Built with kamtech IA
 - Powered by React and Vite
 - Styled with Tailwind CSS
 
-Built with  on kamtech
+Built with  on kamtech IA
