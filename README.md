@@ -2,7 +2,7 @@
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
-## 🚀 Features
+##  Features
 
 - **React 18** - React version with improved rendering and concurrent features
 - **Vite** - Lightning-fast build tool and development server
@@ -74,7 +74,7 @@ const ProjectRoutes = () => {
 };
 ```
 
-## 🎨 Styling
+##  Styling
 
 This project uses Tailwind CSS for styling. The configuration includes:
 
@@ -85,12 +85,12 @@ This project uses Tailwind CSS for styling. The configuration includes:
 - Fluid typography for responsive text
 - Animation utilities
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The app is built with responsive design using Tailwind CSS breakpoints.
 
 
-## 📦 Deployment
+##  Deployment
 
 Build the application for production:
 
@@ -98,10 +98,10 @@ Build the application for production:
 npm run build
 ```
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- Built with [Rocket.new](https://rocket.new)
+- Built with kamtech
 - Powered by React and Vite
 - Styled with Tailwind CSS
 
-Built with ❤️ on Rocket.new
+Built with  on kamtech
